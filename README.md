@@ -1,4 +1,5 @@
-# fa21-kNN-project
+# Creating Playlists Using k-NN Classification
+
 A project on creating playlists using k-NN classification by Olga Aronov and Lil Cabrera.
 
 Data Source - [Top Spotify songs from 2010-2019 - BY YEAR by Leonardo Henrique](https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year?select=top10s.csv)
